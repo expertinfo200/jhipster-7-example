@@ -43,6 +43,11 @@
     "clientThemeVariant": "",
     "languages": ["en"],
     "enableGradleEnterprise": false,
-    "cypressCoverage": false
+    "cypressCoverage": false,
+    "entities": ["Blog", "Post", "Tag"],
+    "lastLiquibaseTimestamp": 1636852803000,
+    "herokuAppName": "jhipster-7-example",
+    "herokuDeployType": "jar",
+    "herokuJavaVersion": "11"
   }
 }
